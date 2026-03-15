@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/components/Icons/IconCup.js"  ],
   "exclude": ["node_modules"]
 }
