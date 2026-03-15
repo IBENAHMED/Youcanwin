@@ -28,7 +28,7 @@ export default function Landing() {
               <IconLamp className="text-black" size={16} />
             </button>
           </div>
-          <div className="border-t border-t-[#E2E8F0] pt-6 mt-12">
+          <div className="border-t border-t-[#E2E8F0] pt-6 mt-12 bg-white">
             <p className="text-[#64748B] pb-4 uppercase font-medium text-[12px] leading-4 tracking-[0.3px]">Ils nous font confiance</p>
             <ul className="flex justify-center gap-6 text-[#94A3B8] font-medium text-[14px] leading-4 lg:justify-start">
               <li>Maroc Telecom</li>
