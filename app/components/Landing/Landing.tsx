@@ -5,7 +5,7 @@ export default function Landing() {
   return (
     <div className="Landing pl-6.5 pt-6.5 bg-[#f1f7f7]">
       <section className="bg-white h-full rounded-2xl shadow-md py-8 flex flex-col items-center text-center lg:text-left lg:flex-row lg:justify-between lg:items-center">
-        <div className="text-black flex flex-col justify-between h-screen max-w-160 lg:pl-16">
+        <div className="text-black flex flex-col justify-between max-w-160 lg:pl-16">
           <h1 className="font-bold text-[72px] leading-18 tracking-[-1.8px]">Transformez chaque <span className="bg-linear-to-r from-[#16A34A] to-[#0B6B3A] bg-clip-text text-transparent">produit</span> en expérience de jeu</h1>
           <p className="font-normal text-[24px] leading-8 text-[#475569] pt-12">
             YouCanWin connecte vos marques aux fans de
